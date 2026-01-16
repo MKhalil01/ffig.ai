@@ -1,5 +1,3 @@
 # ffig.ai
 
-ffig.ai - tools for better things
-
-test
+ffig.ai - fast forward into greatness
