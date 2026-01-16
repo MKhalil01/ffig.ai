@@ -25,6 +25,8 @@ main {
     line-height: 1.1;
     margin-bottom: 0.5rem;
     white-space: pre;
+    display: inline-block;
+    text-align: left;
 }
 
 h1 {
